@@ -3,7 +3,7 @@ Welcome to the Amazon Scrapy Selenium Crawl Bot, your go-to solution for effortl
 
 # See it in Action! 🎥
 Curious about how it works? Check out the Execution Demo Video to witness the bot in action:
-[https://github.com/pipinstallshan/amazon-scrapy-selenium-bot/assets/96914475/3ffca25e-4b8e-4a69-a906-fd553958fb68](https://github.com/pipinstallshan/amazon-scrapy-selenium-bot/assets/96914475/3ffca25e-4b8e-4a69-a906-fd553958fb68)
+https://github.com/pipinstallshan/amazon-scrapy-selenium-bot/assets/96914475/09cbf7ba-7c4d-479e-95c1-dfd09d16dfe7
 
 # MariaDB Magic 🌐
 The collected data finds its home in a MariaDB database, ensuring a robust and organized storage solution. Take a peek at the MariaDB structure in this sleek snapshot:
