@@ -1,0 +1,10 @@
+scrapy
+scrapy_selenium
+selenium
+pandas
+numpy
+scrapeops_scrapy_proxy_sdk
+pymongo
+requests
+mysql-connector-python
+python-dotenv

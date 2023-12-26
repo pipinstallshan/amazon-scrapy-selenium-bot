@@ -1,0 +1,8 @@
+2023/12/26-15:03:30.222 23ec Reusing MANIFEST C:\Users\hp\Desktop\amazon\deelio\userdata\Default\Local Storage\leveldb/MANIFEST-000001
+2023/12/26-15:03:30.231 23ec Recovering log #92
+2023/12/26-15:03:30.259 23ec Reusing old log C:\Users\hp\Desktop\amazon\deelio\userdata\Default\Local Storage\leveldb/000092.log 
+2023/12/26-15:04:36.446 6ffc Level-0 table #95: started
+2023/12/26-15:04:36.452 6ffc Level-0 table #95: 39842 bytes OK
+2023/12/26-15:04:36.454 6ffc Delete type=0 #92
+2023/12/26-15:05:26.527 6ffc Level-0 table #97: started
+2023/12/26-15:05:26.540 6ffc Level-0 table #97: 82156 bytes OK
